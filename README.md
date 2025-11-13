@@ -53,7 +53,7 @@ All SQL queries are available in a markdown file in the repository.
 ## 📈 Key Insights
 - Loan acceptance is **highest among customers aged 20-30**.  
 - **Higher income and education levels** show stronger loan adoption.  
-- **Online users** and **credit card holders** have significantly higher conversion rates.  
+- **Online users** and **credit card holders** have slightly higher conversion rates.  
 - Ideal campaign target: educated, tech-savvy, mid-aged customers with strong credit habits.
 
 ---

@@ -1,17 +1,17 @@
-# 🏦 Thera Bank Personal Loan Modelling – SQL Analysis
+# Thera Bank Personal Loan Modelling – SQL Analysis
 
-## 📘 Project Overview
+## Project Overview
 This project explores the **factors influencing customers’ acceptance of personal loans** at Thera Bank.  
 Using structured SQL queries on the bank’s customer dataset, the analysis identifies demographic, financial, and behavioral traits linked with higher loan acceptance.
 
 ---
 
-## 🎯 Objective
+## Objective
 To help Thera Bank target the right customer segments for personal loan campaigns — improving conversion rates while reducing marketing costs.
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 | Column | Description |
 |--------|--------------|
 | ID | Unique customer identifier |
@@ -31,7 +31,7 @@ To help Thera Bank target the right customer segments for personal loan campaign
 
 ---
 
-## 🧠 Analyses Performed
+## Analyses Performed
 1. **Average Income by Education Level**  
 2. **Loan Acceptance by Family Size**  
 3. **Loan Acceptance by Income Range**  
@@ -43,14 +43,14 @@ All SQL queries are available in a markdown file in the repository.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **SQLite (SQL Online Aide)** – for executing and testing queries  
 - **Microsoft Excel / CSV** – for dataset storage and cleanup  
 - **Markdown (.md)** – for documentation and report formatting  
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Loan acceptance is **highest among customers aged 20-30**.  
 - **Higher income and education levels** show stronger loan adoption.  
 - **Online users** and **credit card holders** have slightly higher conversion rates.  
@@ -58,7 +58,7 @@ All SQL queries are available in a markdown file in the repository.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Open any SQLite environment (e.g., [SQL Online Aide](https://sqliteonline.com/)).  
 2. Upload the dataset file: `Thera_Bank_Personal_Loan_Modelling.csv`.  
 3. Copy and run the queries from [`Thera_Bank_SQL_Project.md`](Thera_Bank_SQL_Project.md).  
